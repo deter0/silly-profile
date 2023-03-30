@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital@0;1&display=swap');
+
+.lyrics-line {
+  font-size: 18px;
+  font-family: 'Ubuntu Mono', monospace;
+  background-color: rgb(255, 255, 136);
+  color: black;
+  margin: 0;
+  width: fit-content;
+}
+
+details summary h2 {
+  display: inline-block;
+}
